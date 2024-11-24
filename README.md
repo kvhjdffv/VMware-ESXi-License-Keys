@@ -78,11 +78,8 @@ HF6E2-AU3DQ-488E9-E08N0-CUAQ0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-## Download FREE iso file for vSphere Hypervisor (ESXi 6.x & 7.x)
-
-No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
-
-<br>
+## Download ISO file for vSphere Hypervisor (ESXi 6.x & 7.x)
+<br/>
 
 | Name | Link | Size |
 |:------:|------------|:---------:|
